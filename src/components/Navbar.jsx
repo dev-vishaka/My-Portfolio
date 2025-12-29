@@ -67,7 +67,7 @@ export default function Navbar() {
         </ul>
 
         <motion.a
-          href="https://drive.google.com/file/d/1GY3NqtNEqV-VvqYL5hI4qNcXmjjm3wbH/view?usp=sharing"
+          href="https://drive.google.com/file/d/18RTE6QrkHck1Lx5VuhXHjLS7A5EQfZKZ/view?usp=drive_link"
           target="_blank"
           className="hidden relative lg:inline-block px-4 py-2 font-medium group"
         >
@@ -116,7 +116,7 @@ export default function Navbar() {
                 </motion.li>
               ))}
               <motion.a
-                href="https://drive.google.com/file/d/1GY3NqtNEqV-VvqYL5hI4qNcXmjjm3wbH/view?usp=sharing"
+                href="https://drive.google.com/file/d/18RTE6QrkHck1Lx5VuhXHjLS7A5EQfZKZ/view?usp=drive_link"
                 target="_blank"
                 className="relative inline-block px-4 py-2 font-semibold group"
                 whileHover={{ scale: 1.1 }}
