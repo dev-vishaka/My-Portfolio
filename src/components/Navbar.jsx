@@ -67,7 +67,7 @@ export default function Navbar() {
         </ul>
 
         <motion.a
-          href="https://drive.google.com/file/d/18RTE6QrkHck1Lx5VuhXHjLS7A5EQfZKZ/view?usp=drive_link"
+          href="https://drive.google.com/file/d/1zFRha1OoPYTGmcRAV3fBKzZVcbPL7lZh/view"
           target="_blank"
           className="hidden relative lg:inline-block px-4 py-2 font-medium group"
         >
