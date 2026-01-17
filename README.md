@@ -1,9 +1,9 @@
-# 🌐 Developer Portfolio
+## 🌐 Developer Portfolio
 
 A modern, responsive personal portfolio website showcasing skills, projects, and experience.
 Built to represent a general web developer profile and suitable for showcasing academic, personal, and internship projects.
 
-# ✨ Features
+## ✨ Features
 
 - Clean and minimal UI design
 
@@ -21,7 +21,7 @@ Built to represent a general web developer profile and suitable for showcasing a
 
 Responsive Design Principles
 
-# 📁 Sections Included
+## 📁 Sections Included
 
 - Home – Introduction and headline
 
@@ -35,25 +35,25 @@ Responsive Design Principles
 
 - Contact – Email and contact form
 
-# ⚙️ Installation & Setup
+## ⚙️ Installation & Setup
 
-## Clone the repository
+#### Clone the repository
 
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/dev-vishaka/My-Portfolio
 
-## Navigate to project directory
+#### Navigate to project directory
 
 cd your-repo-name
 
-## Install dependencies
+#### Install dependencies
 
 npm install
 
-## Start development server
+#### Start development server
 
 npm run dev
 
-# 📬 Contact
+## 📬 Contact
 
 If you’d like to connect or collaborate:
 
@@ -63,6 +63,6 @@ GitHub: https://github.com/dev-vishaka
 
 LinkedIn: https://www.linkedin.com/in/vishaka-chaudhari/
 
-# 📄 License
+## 📄 License
 
 This project is created for personal and educational use.
